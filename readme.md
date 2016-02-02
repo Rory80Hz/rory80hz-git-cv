@@ -29,7 +29,7 @@ Yes...pretty much, Why? well, thats the point of this excercise, lets see if I c
 ### How do you use this thing?
 Well, it's Git. Git reprents the divergence and convergence of code over time. Well, how about instead of code, we use that to represent ideas. Ideas in the form of paragraphs of a 'Living CV'. Want to see the history as a timeline? Look at the git history in something like [Source Tree](https://www.sourcetreeapp.com/) or [gitup](http://gitup.co/). The words provide the narrative for the various ideas and threads.
 
-![images/example.png](Example of the history)
+![Example of the history](images/example.png)
 
 ## From Then to Now
 ### From Tiny Acorns
