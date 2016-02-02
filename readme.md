@@ -1,23 +1,35 @@
 # From Zero to Principal Architect
 ## Introduction
 ### What the hell is this?
-This is a story about how I travelled through time to my current work position. It is a living CV, documented with git branches, detailing not just work expierence, but experience in general. 
+This is a story about how I travelled through time to my current work position. It is a living CV, documented with Git branches, detailing not just work expierence, but experience in general. 
 
+### CVs are bad M'Kay
 CV is the wrong word. We are badly served by CV's.
 
 They are a checklist of buzz words, we all know we twist and turn them in different ways to suit the job description presented, to sell yourself into a role, to sell a role to a client, to sell an idea...we all know how it works, you stick in the relevant experience tailored to fit the bill, the recipient scans it for blatant lies and inconsistencies, barely reaches passed year 3 or 4 on the list and decides whether you are worth a closer look.
 
+### An Alternative Proposition
 The person you are is much more than that...it is years of collected experience, decision and indecision, events beyond our control, seemingly unconnected ideas, interests and opportunities. 
 
-Hence this little experiment. It was born out of a conversation with [Peter Campbell](https://medium.com/@petecam) Kainos Gov BU CTO, where we wanted to figure what it is that made us the people we are, why we are in the roles we found ourselves in, there must be something more than just time served amongst 'Enterprise' architecture and beyond, more than sticking down really unhelpful tags on a CV like 'XPATH EXPERT'.
+Hence this little experiment. It was born out of a conversation with [Peter Campbell](https://medium.com/@petecam), a fellow Kainos person, where we wanted to figure out what it is that made us the people we are and why we are in the roles we found ourselves in, and how can we share that experience with others.
+
+There must be something more than just time served amongst 'Enterprise' architecture and beyond, more than sticking down really unhelpful tags on a CV like 'XPATH EXPERT'. This won't be for everyone, but hopefully if it resonates with you, let me know on twitter [@rory80hz](https://twitter.com/rory80hz) and if you are looking for a job, also, let me know, you might be the sort of person we are after.
 
 ### Right Now.
 This is the bit that will change as time goes by, but right now, I am Principal Architect with Kainos, working in their Gov BU, currently engaged with GDS as Product Manager for the Government PaaS offering.
 
-PaaS done right is a massive game changer, so this a super cool thing to be involved in. I'm also massively interested in how to make things better for teams building services, users as a first class citizen, design, security, operations and testing. (Yeah right, you are mad into everything? Yes...pretty much, why? well, thats the point of this excercise, lets see if I can figure that out.)
+PaaS done right is an immense game changer, so this is a super cool thing to be involved in. I'm also massively interested in how to make things better for teams building services, users as a first class citizen, design, security, operations and testing. 
+
+> "Yeah right, you are mad into everything?" 
+>
+> _You, just now_
+
+Yes...pretty much, Why? well, thats the point of this excercise, lets see if I can figure that out.
 
 ### How do you use this thing?
-Well, it's Git. Git reprents the divergence and convergence of code over time. Well, how about instead of code, we use that to represent ideas. Ideas in the form of paragraphs of a 'Living CV'. Want to see the history as a timeline? Look at the git history in something like [Source Tree](https://www.sourcetreeapp.com/) or [gitup](http://gitup.co/). The words describe those things.
+Well, it's Git. Git reprents the divergence and convergence of code over time. Well, how about instead of code, we use that to represent ideas. Ideas in the form of paragraphs of a 'Living CV'. Want to see the history as a timeline? Look at the git history in something like [Source Tree](https://www.sourcetreeapp.com/) or [gitup](http://gitup.co/). The words provide the narrative for the various ideas and threads.
+
+![images/example.png](Example of the history)
 
 ## From Then to Now
 ### From Tiny Acorns
@@ -30,9 +42,13 @@ As mentioned previously, games played a decent part of my informal education on 
 
 So in the early days what did I learn from games?
 
-That they are memory hogging nightmares that require you to bend things to your will.
+> That they are memory hogging nightmares that require you to bend things to your will.
+>
+> _Historic Rory, 1990s_
 
-Allow me to explain, in between my BBC Micro experiences things evolved and changed, via Spectrums, Amstrads and Commodore 64s. With those things you tended to stick in the tape (let grandad tell you about tapes some time) or disc (let grandad tell you about discs some time) waited for 17 hours, and, if you didn't find yourself having some sort of seizure thanks to the loading screens, you had a game you could play. Basic write protection to 'backup' these games was usually defeated with a dual tape deck, or strategically placed selotape, and early lessons were learned here about the value of genuine backups...when the amstrad decided to eat your tape, and the nearest option for a replacement was 30 miles away, and the internet was still the realm of R&D skunkworks and academia, not to mention crossing the border in the 1980s in Ireland to go to the one computer shop in the North East was not exactly good craic, having a replica was a necessity.
+Allow me to explain, in between my BBC Micro experiences things evolved and changed, via Spectrums, Amstrads and Commodore 64s. With those things you tended to stick in the tape (let grandad tell you about tapes some time) or disc (let grandad tell you about discs some time) waited for 17 hours, and, if you didn't find yourself having some sort of seizure thanks to the loading screens, you had a game you could play. 
+
+Basic write protection to 'backup' these games was usually defeated with a dual tape deck, or strategically placed selotape, and early lessons were learned here about the value of genuine backups...when the Amstrad decided to eat your tape, and the nearest option for a replacement was 30 miles away, and the internet was still the realm of R&D skunkworks and academia, not to mention crossing the border in the 1980s in Ireland to go to the one computer shop in the North East was not exactly good craic, having a replica was a necessity.
 
 Anyway, more typing code verbatim happened with the Amstrads my mates owned, and the buzz you got from hours of effort that resulted in admitedly crap games appearing on screen was imeasurable, I miss that sufficiently that im going to do a course on game development over the next while, but really, for me, it illustrated the power of these whiring boxes, you could do anything with them!!!
 
