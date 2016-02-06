@@ -38,5 +38,5 @@ Well, it's Git. Git reprents the divergence and convergence of code over time. W
 * [Tiny Acorns](tiny-acorns.md)
 * [Games! The early days](games-early-days.md)
 * [Learning to Code: Version 0.1](learning-to-code.md)
-
+* [More on Games](more-on-games.md)
 
