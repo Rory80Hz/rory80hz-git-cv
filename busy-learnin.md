@@ -1,0 +1,5 @@
+## Busy Learnin
+Eventually I ended up in universty. Somehow. Basically in school I spent a lot of my time more or less having the craic, I didn't find subjects particularly hard, so, I didn't really apply myself all that much, which resulted in fairly average grades, so when the whole roulette wheel of available courses stopped spinning, I had a choice, go to local regional college and study something weird like food science or go to Coleraine in the North of Ireland and study Computer Science. I opted for the latter.
+
+## First Year
+Man, this was turbo easy, because I'd already spent 2 years working during the summer actually writing code, there were no mysteries here, I got stupidly high marks, and basically got 'upgraded' to the Bsc Hons degree instead of the standard Bsc. Awesome you might think...well maybe not, but it certainly wasn't. Super good results coupled with the fact that I already had a bad habit of thinking I didn't need to work hard at things did not set me up well for the rest of my time in university.
