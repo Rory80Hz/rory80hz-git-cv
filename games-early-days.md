@@ -1,5 +1,5 @@
 ## Games - the early days
-As mentioned previously, games played a decent part of my informal education on the hows, whys and whats of how computers work, and to an extent pushed things a little bit more than the standard 'oh kids these days they are great with technology' (no they aren't but that's a whole other story).
+As mentioned previously, games played a decent part of my informal education on the how, why and what of how computers work, and to an extent pushed things a little bit more than the standard 'oh kids these days they are great with technology' (no they aren't but that's a whole other story).
 
 So in the early days what did I learn from games?
 
@@ -13,13 +13,13 @@ Allow me to explain, in between my BBC Micro experiences things evolved and chan
 Basic write protection to 'backup' these games was usually defeated with a dual tape deck, or strategically placed selotape, and early lessons were learned here about the value of genuine backups...when the Amstrad decided to eat your tape, and the nearest option for a replacement was 30 miles away, and the internet was still the realm of R&D skunkworks and academia, not to mention crossing the border in the 1980s in Ireland to go to the one computer shop in the North East was not exactly good craic, having a replica was a necessity.
 
 ### Writing More Code
-Anyway, more typing code verbatim happened with the Amstrads my mates owned, and the buzz you got from hours of effort that resulted in admitedly crap games appearing on screen was imeasurable, I miss that sufficiently that im going to do a course on game development over the next while, but really, for me, it illustrated the power of these whiring boxes, you could do anything with them!!!
+Anyway, more typing code verbatim happened with the Amstrads my mates owned, and the buzz you got from hours of effort that resulted in admittedly crap games appearing on screen was immeasurable, I miss that sufficiently that I’m going to do a course on game development over the next while, but really, for me, it illustrated the power of these whirring boxes, you could do anything with them!!!
 
 ### Battling the OS
-Back to the initial statment, about them being memory hungry beasts. In the dawning of the age of the x86, our family acquired an 386, with an insane 640k of memory. It ran stuff like Wordstar and some Sage thing...AND GAMES. OH YES. BUT OH NO! You have insufficient memory...enter [memmaker](http://www.easydos.com/memmaker.html) this let you manage memory allocation, but in order for this to work properly it needed to run at startup...so this meant changing config.sys and autoexec.bat, through this I learned how computers started up, got forced into mucking about with BIOS settings and by sheer necessity (i.e. Populus clearly must run) learned more than I ever intended.
+Back to the initial statement, about them being memory hungry beasts. In the dawning of the age of the x86, our family acquired an 386, with an insane 640k of memory. It ran stuff like Wordstar and some Sage thing...AND GAMES. OH YES. BUT OH NO! You have insufficient memory...enter [memmaker](http://www.easydos.com/memmaker.html) this let you manage memory allocation, but in order for this to work properly it needed to run at startup...so this meant changing config.sys and autoexec.bat, through this I learned how computers started up, got forced into mucking about with BIOS settings and by sheer necessity (i.e. Populous clearly must run) learned more than I ever intended.
 
 ### Hacking 101
-It also provided the one of the highlights of my IT career. My game playing reached intolerable levels, so my Dad enlisted one of his students (he lectured in Elecontric Engineering in a local Regional College) to create a password protection program. It was great, it started after boot, prompted for a password and if you didn't get it right, DOS wouldn't load. Sadly, my education in boot process thanks to memory wrangling meant two things.
+It also provided the one of the highlights of my IT career. My game playing reached intolerable levels, so my Dad enlisted one of his students (he lectured in Electronic Engineering in a local Regional College) to create a password protection program. It was great, it started after boot, prompted for a password and if you didn't get it right, DOS wouldn't load. Sadly, my education in boot process thanks to memory wrangling meant two things.
 
 1. I wasn't scared to go poking around things
 2. I had a suspicion where this Password protection program might get called (autoexec.bat)
