@@ -1,0 +1,5 @@
+## From Tiny Acorns
+How literal is this. The first computer I ever used was a [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro), manufactured by Acorn Computers. My primary school a little National School in the countryside of County Louth in Ireland, was convinced by my Dad that they should get one. I don't know the details of this, but get one they did in 1984, I was 5. Very occasionally we would be allowed to use it and it mostly revolved around playing [this game](http://www.computinghistory.org.uk/det/38952/Granny's%20Garden/). That was that. I couldn't get away from computers.
+
+### Copying Code
+Later we would eventually get a BBC Micro at home, and this is where I started mucking about with BASIC, retyping code from magazines, understanding not one bit of it to make utterly crude games, which would on reflection go on to inform a large part of my opinion and ideas around technology.
