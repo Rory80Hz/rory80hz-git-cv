@@ -19,4 +19,4 @@ My previous lessons from the days of DOS games added value here too, disabling u
 One of the final lessons from my teenage years was in Networking. Games, thanks to their introduction of multi-player action, often included instructions on setting up your own network, so we did, lugging full on desktops and CRT monitors round to an appointed house, along with all sorts of cabling. Some rapid learning here included the reason for crossover cables, network hubs, terrible workgroup based networking for windows.
 
 ### And?
-Well, I guess the main thing here, again, is that it reinforced the idea that you could to an awful lot with a computer and that they were not a thing to be feared.
+Well, I guess the main thing here, again, is that it reinforced the idea that you could do an awful lot with a computer and that they were not a thing to be feared.
