@@ -8,7 +8,7 @@ This was probably the first time I got into something where I totally sucked at 
 
 I recorded absolutely everything, I made notes...they were pretty honest
 
-![Mix Notes](mix.jpg)
+![Mix Notes](images/mix.jpg)
 
 In the end this taught me a valuable lesson in applying yourself, now, with gaps of months between mixes, without thinking about it I can fire up my turntables and rattle out pretty sweet mixes.
 
@@ -20,7 +20,7 @@ Before I got into DJ'ing, I hated situations involving crowds, I’m still not a
 
 > 'Don't worry, if you fuck up, everyone will think you are a dick'
 >
-> Switch, 1997
+> _Someone, Switch, 1997_
 
 Doing this is scary, but, it was also a total buzz. Seeing a crowd going nuts to music you've selected, practiced putting together, doing _that_ mix over and over again so you cut from one tune to another perfectly...where people talk about it over and over afterwards, it's unbelievable. You get the same satisfaction from speaking about stuff you care about to a room full of people, and you know what? You won't cop an epic beatdown if you don't nail it.
 
