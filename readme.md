@@ -40,5 +40,6 @@ Well, it's Git. Git reprents the divergence and convergence of code over time. W
 * [Learning to Code: Version 0.1](learning-to-code.md)
 * [More on Games](more-on-games.md)
 * [Busy Earnin](busy-earnin.md)
+* [Busy Learnin](busy-learnin.md)
 * [Musical Stylings](musical-stylings.md)
 * [Design](design.md)
